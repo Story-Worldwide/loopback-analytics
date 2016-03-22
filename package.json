@@ -1,0 +1,11 @@
+{
+  "name": "loopback-analytics",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+    "keen-js": "^3.4.0",
+    "lodash": "^4.2.0",
+    "path": "^0.12.7",
+    "universal-analytics": "^0.3.10"
+  }
+}
